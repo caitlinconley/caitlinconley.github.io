@@ -1,0 +1,18 @@
+/* 
+
+CSS Syntax
+
+selector {
+	property: value;
+
+}
+
+*/
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	}
+
+h1 {
+	font-family: Georgia, serif; 
+}
